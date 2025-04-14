@@ -57,7 +57,7 @@ This project focuses on classifying ECG signals to detect various types of arrhy
 ## 🚀 Launch the Jupyter Notebook
 
 ```bash
-jupyter notebook p.ipynb
+jupyter notebook ecg_detection.ipynb
 ```
 ## 🚀 Future Enhancements
 
