@@ -16,7 +16,7 @@ This project focuses on classifying ECG signals to detect various types of arrhy
 
 - Contains 48 half-hour excerpts of two-channel ambulatory ECG recordings.
 - Labeled with five types of heartbeat classes based on AAMI EC57 standard.
-- Files: `mitbih_train.csv`, `mitbih_test.csv`
+- Files: `100.csv`, `100annotations.txt`and so on.
 
 ## 🧠 Technologies Used
 
