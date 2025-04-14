@@ -4,7 +4,7 @@ This project focuses on classifying ECG signals to detect various types of arrhy
 
 ## 📁 Repository Contents
 
-- `p.ipynb` - Main notebook containing data preprocessing, model training, and evaluation steps.
+- `ecg_detection.ipynb` - Main notebook containing data preprocessing, model training, and evaluation steps.
 - Cloned base repo from: [omroy07/Ecg_recognition](https://github.com/omroy07/Ecg_recognition)
 - `plots/` - Visualizations of training performance and confusion matrix.
 - `README.md` - Project overview and documentation.
