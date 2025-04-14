@@ -32,12 +32,12 @@ This project focuses on classifying ECG signals to detect various types of arrhy
 
 | Name              | Role                                | GitHub Username |
 |-------------------|--------------------------------------|------------------|
-| Teammate 1        | Team Lead / Project Manager          | @omroy07    |
-| Teammate 2        | Data Collection & Preprocessing      | @username2       |
-| Teammate 3        | Model Development (CNN/LSTM)         | @username3       |
-| Teammate 4        | Evaluation / Hyperparameter Tuning   | @username4       |
-| Teammate 5        | Research & Benchmark Comparison      | @username5       |
-| Teammate 6        | Documentation & Final Presentation   | @username6       |
+| Teammate 1        | Team Lead / Project Manager          | Om Roy    |
+| Teammate 2        | Data Collection & Preprocessing      | Kanisha Ravindra Sharma|
+| Teammate 3        | Model Development (CNN/LSTM)         | Anshuman Pandey     |
+| Teammate 4        | Evaluation / Hyperparameter Tuning   | Tanmay Pandey       |
+| Teammate 5        | Research & Benchmark Comparison      | Samridhi Saxena      |
+| Teammate 6        | Documentation & Final Presentation   | Elfa Monali |
 
 ## 📝 How to Run
 
@@ -45,3 +45,24 @@ This project focuses on classifying ECG signals to detect various types of arrhy
    ```bash
    git clone https://github.com/omroy07/Ecg_recognition.git
    cd Ecg_recognition
+``
+## 📥 Download the Dataset
+
+1. Go to the [Kaggle Dataset](https://www.kaggle.com/datasets/mondejar/mitbih-database)
+2. Download and extract the files:  
+   - `mitbih_train.csv`  
+   - `mitbih_test.csv`  
+3. Place them in the same directory as your notebook.
+
+## 🚀 Launch the Jupyter Notebook
+
+```bash
+jupyter notebook p.ipynb
+```
+## 🚀 Future Enhancements
+
+- Improve accuracy using deeper or hybrid models (e.g., CNN + LSTM)
+- Explore Transformer-based architectures
+- Add real-time ECG signal processing support
+- Deploy the model using Flask or Streamlit
+- Implement explainability tools like Grad-CAM or SHAP
