@@ -50,8 +50,8 @@ This project focuses on classifying ECG signals to detect various types of arrhy
 
 1. Go to the [Kaggle Dataset](https://www.kaggle.com/datasets/mondejar/mitbih-database)
 2. Download and extract the files:  
-   - `mitbih_train.csv`  
-   - `mitbih_test.csv`  
+   - `100.csv`  
+   - `100annotations.txt` and so on.   
 3. Place them in the same directory as your notebook.
 
 ## 🚀 Launch the Jupyter Notebook
